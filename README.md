@@ -25,12 +25,13 @@ This is a simple and interactive Streamlit dashboard that helps forecast financi
 
 ---
 
-##  Setup
+## Installation
 
-1. Clone the repo:
+1. Clone the repository:
 
-```bash
-git clone https://github.com/your-username/fpna-dashboard.git
-cd fpna-dashboard
-2. Run the app:
-streamlit run main.py
+   ```bash
+   git clone https://github.com/your-username/fpna-dashboard.git
+   cd fpna-dashboard
+    streamlit run main.py
+
+
