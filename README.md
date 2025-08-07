@@ -36,4 +36,5 @@ This is a simple and interactive Streamlit dashboard that helps forecast financi
 
    streamlit run main.py
 
+<img width="1920" height="946" alt="image" src="https://github.com/user-attachments/assets/7973ffab-d867-42dc-ada1-53f9383b4a66" />
 
