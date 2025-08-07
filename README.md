@@ -45,7 +45,11 @@ This is a simple and interactive Streamlit dashboard that helps forecast financi
 
 <h2>Metrics</h2>
 <img width="1578" height="806" alt="image" src="https://github.com/user-attachments/assets/9841d7cb-b531-4936-a652-1d34b8cb506d" />
+
+<h2>Variance Analysis</h2>
 <img width="1586" height="791" alt="image" src="https://github.com/user-attachments/assets/11ade13c-999a-49ff-a28e-58674a436d5f" />
+
+<h2>Forecasted data</h2>
 <img width="1582" height="842" alt="image" src="https://github.com/user-attachments/assets/9a3d349a-e329-4a9c-9cbf-4ba7e8f91e6b" />
 
 
