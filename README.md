@@ -33,6 +33,7 @@ This is a simple and interactive Streamlit dashboard that helps forecast financi
    git clone https://github.com/your-username/fpna-dashboard.git
    cd fpna-dashboard
 2. Run the app:
+
    streamlit run main.py
 
 
