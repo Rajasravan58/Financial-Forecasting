@@ -25,6 +25,22 @@ This is a simple and interactive Streamlit dashboard that helps forecast financi
 
 ---
 
+## Dataset details
+   The dataset used in this project is synthetically generated but closely follows realistic financial growth patterns for a company over a 5-year period. It includes monthly financial metrics with progressive growth to mimic business scaling.
+   The data is generated as follows:
+
+   - 5 years of monthly data: January 2020 to December 2024
+
+   - Revenue, Cost of Goods Sold (COGS), and Operating Expenses are linearly increased month-over-month.
+
+   - Net Income is computed as:
+
+   - Net Income = Revenue - COGS - Operating Expenses
+
+   - Forecast period: 24 months ahead (2025–2026)
+   
+---
+
 ## Installation
 
 1. Clone the repository:
